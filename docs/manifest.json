@@ -1,0 +1,22 @@
+{
+  "name": "Investment HQ",
+  "short_name": "InvestHQ",
+  "description": "Dashboard personal de investitii - Drumul spre FIRE",
+  "start_url": "/investment-hq/",
+  "scope": "/investment-hq/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0891B2",
+  "icons": [
+    {
+      "src": "/investment-hq/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/investment-hq/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
