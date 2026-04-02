@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[26473,["473","static/chunks/473-31c47df7a3937916.js","177","static/chunks/app/layout-78684fb3f1a77294.js"],"AppProvider"]
+2:I[26473,["473","static/chunks/473-ab82728ff1dfa02c.js","177","static/chunks/app/layout-78684fb3f1a77294.js"],"AppProvider"]
 3:I[57121,[],""]
 4:I[74581,[],""]
-:HL["/investment-hq/_next/static/css/220ea6e065ed1e8c.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/investment-hq/_next/static/css/220ea6e065ed1e8c.css","precedence":"next"}]],["$","html",null,{"lang":"ro","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8Q-Ugb2LBKJa3QVeCmRzn"}
+:HL["/investment-hq/_next/static/css/62b7186f7ad6d799.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/investment-hq/_next/static/css/62b7186f7ad6d799.css","precedence":"next"}]],["$","html",null,{"lang":"ro","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SvuX1DxfOmnl_Zlilx2O1"}
