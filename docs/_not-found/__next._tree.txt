@@ -1,2 +1,2 @@
-:HL["/investment-hq/_next/static/css/0449c7efcfdf13e1.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-G1LJJWXZJ550YZgU4iqD"}
+:HL["/investment-hq/_next/static/css/83fc3a8f3d128d74.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DXTL5HmlFE2a-NWalLpBI"}

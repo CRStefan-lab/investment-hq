@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[861],{55861:(e,t,r)=>{r.r(t),r.d(t,{getUserId:()=>s});let l="ihq_user_id";function s(){let e=localStorage.getItem(l);if(e)return e;let t=crypto.randomUUID();return localStorage.setItem(l,t),t}}}]);
